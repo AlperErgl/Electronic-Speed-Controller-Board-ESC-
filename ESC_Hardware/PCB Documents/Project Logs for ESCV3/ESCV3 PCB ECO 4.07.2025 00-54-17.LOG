@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=NetC4_2 Pin=C9-2
+Removed Pin From Net: NetName=AH Pin=U1-1
+Removed Pin From Net: NetName=AL Pin=U1-2
+Removed Pin From Net: NetName=+12 Pin=U1-3
+Removed Pin From Net: NetName=NetC4_2 Pin=U2-6
+Removed Pin From Net: NetName=NetC4_2 Pin=U2-8
+Removed Pin From Net: NetName=CH Pin=U4-1
+Removed Pin From Net: NetName=CL Pin=U4-2
+Removed Pin From Net: NetName=+12 Pin=U4-3
+Removed Pin From Net: NetName=BH Pin=U7-1
+Removed Pin From Net: NetName=BL Pin=U7-2
+Removed Pin From Net: NetName=+12 Pin=U7-3
+Change Component Designator: OldDesignator=R12 NewDesignator=12
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change Component Description : Designator=Q3 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change Component Description : Designator=Q4 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change Component Description : Designator=Q5 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change Component Description : Designator=Q6 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Low RDS(ON) at 4.5V VGS | Fully Characterized Avalanche Voltage and Current | Ultra-Low Gate Impedance | Logic Level
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP 0603_1608"; UniqueID = "\GEVYCBVD" ("\GEVYCBVD")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "3.9 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/CBR06C399BAGAC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/CBR06C399BAGAC/3479707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "High Q, Low Loss, Ultra Low ESR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "9.02.2024 20:10:06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CBR06C399BAGAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "18061"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "CBR-SMD RF C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-8807-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±0.1pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS Pin=C6-1
+Added Pin To Net: NetName=+12 Pin=C10-2
+Added Pin To Net: NetName=+12 Pin=C14-2
+Added Pin To Net: NetName=+12 Pin=C15-2
+Added Pin To Net: NetName=+12 Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=D2-1
+Added Pin To Net: NetName=+12 Pin=D3-1
+Added Pin To Net: NetName=CS Pin=R1-2
+Added Pin To Net: NetName=+12 Pin=U1-1
+Added Pin To Net: NetName=AH Pin=U1-2
+Added Pin To Net: NetName=AL Pin=U1-3
+Added Pin To Net: NetName=+12 Pin=U4-1
+Added Pin To Net: NetName=CH Pin=U4-2
+Added Pin To Net: NetName=CL Pin=U4-3
+Added Pin To Net: NetName=+12 Pin=U7-1
+Added Pin To Net: NetName=BH Pin=U7-2
+Added Pin To Net: NetName=BL Pin=U7-3
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-8
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U2-6
+Added Net: Name=NetC9_2
