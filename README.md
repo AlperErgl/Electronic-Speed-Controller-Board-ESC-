@@ -1,4 +1,4 @@
-# Electronic-Speed-Controller-Board-ESC-
+# Electronic-Speed-Controller-Board-ESC
 Electronic Speed Controller (ESC) using PWM control, developed in C for embedded applications.
 
 <img width="1000" height="841" alt="ESC Perspective View-Photoroom" src="https://github.com/user-attachments/assets/cd50b3fc-694a-4535-87f1-f6b4a4ee8f9f" />
