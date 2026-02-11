@@ -306,7 +306,9 @@ Email: alp-ergl@hotmail.com
 
 GitHub: https://github.com/AlperErgl
 
-LinkedIn: https://www.linkedin.com/in/alperen-erg%C3%BCl-428699202/
+LinkedIn: www.linkedin.com/in/alperen-ergül
+
+
 
 
 
